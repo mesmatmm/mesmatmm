@@ -1,14 +1,16 @@
 
-###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZjOG1wMDBubTh4YjJiYm1taDZ3cng5eTBrbWo0aTB2bDE1MzZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif"  />
-
-###
 
 
 ###
 <h1 align="center">Hi 👋, I'm Mahmoud Esmat</h1>
 <h3 align="center">Computer Science Teaching Assistant</h3>
+
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZjOG1wMDBubTh4YjJiYm1taDZ3cng5eTBrbWo0aTB2bDE1MzZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif"  />
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mem000&label=Profile%20views&color=0e75b6&style=flat" alt="mem000" /> </p>
 
