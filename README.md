@@ -4,7 +4,7 @@
   
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Computer+Science+Teaching+Assistant+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Computer+Science+Teaching+Assistant+%F0%9F%8E%93;PhD+Student+%F0%9F%93%9A;Always+Learning+New+Things+%F0%9F%8C%B1;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
 </div>
@@ -16,9 +16,9 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Computer Science Teaching Assistant**
-- 🔭 Passionate about **Deep Learning & Education**
+- 🔭 Passionate about **Software Development & Education**
 - 🌱 Currently exploring **new technologies and frameworks**
-- 💬 Ask me about **Java, C++, Python, MATLAB**
+- 💬 Ask me about **C++, Java, Python, Web Development**
 - ⚡ Fun fact: **I love turning complex problems into simple solutions**
 
 <br clear="both"/>
@@ -38,7 +38,7 @@
   <a href="https://instagram.com/mahmoud.e.m" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:mahmoudesmatm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
@@ -102,16 +102,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesmatmm&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=true" alt="Activity Graph" width="95%"/>
-</div>
-
----
-
-<div align="center">
-  
-  ## 🏆 GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mesmatmm&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-  
 </div>
 
 ---
