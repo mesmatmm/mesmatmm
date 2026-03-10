@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Computer Science Teaching Assistant**
-- 🔭 Passionate about **Software Development & Education**
+- 🔭 Passionate about **Deep Learning & Photography**
 - 🌱 Currently exploring **new technologies and frameworks**
 - 💬 Ask me about **C++, Java, Python, Web Development**
 - ⚡ Fun fact: **I love turning complex problems into simple solutions**
